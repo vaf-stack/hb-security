@@ -18,4 +18,4 @@
 `npm install @hbsecurity/plugin`
 
 #### Yarn
-`npm install @hbsecurity/plugin`
+`yarn add @hbsecurity/plugin`
