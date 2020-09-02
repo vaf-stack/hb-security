@@ -1,0 +1,28 @@
+{
+  "name": "@hbsecurity/plugin",
+  "version": "1.0.1",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "haxball-types": "^1.0.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "typings": "./typings/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyde81/hb-security-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tyde81/hb-security-plugin/issues"
+  },
+  "homepage": "https://github.com/tyde81/hb-security-plugin#readme",
+  "description": ""
+}
